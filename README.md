@@ -15,6 +15,6 @@
 - [x] 1. InputView 생성
 - [x] 2. OutputView 생성
 - [x] 3. 기본 구분자 구현
-- [] 4. 커스텀 구분자 구현
+- [x] 4. 커스텀 구분자 구현
 - [] 5. Controller 실행
 

@@ -12,8 +12,9 @@
 
 ## 구현할 기능 목록
 
-- [] 1. InputView 생성
+- [x] 1. InputView 생성
 - [] 2. OutputView 생성
 - [] 3. 기본 구분자 구현
 - [] 4. 커스텀 구분자 구현
 - [] 5. Controller 실행
+
